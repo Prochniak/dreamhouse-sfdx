@@ -12,9 +12,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Contracted</fullName>
+                <fullName>Contracted2</fullName>
                 <default>false</default>
-                <label>Contracted</label>
+                <label>Contracted2</label>
             </value>
             <value>
                 <fullName>Pre Market</fullName>

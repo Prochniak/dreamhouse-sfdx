@@ -5,13 +5,14 @@
             "default": true,
             "package": "dh",
             "versionName": "ver 1",
-            "versionNumber": "1.0.1.NEXT"
+            "versionNumber": "1.0.2.NEXT"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "dh": "0Ho0J000000CaRHSA0"
+        "dh": "0Ho0J000000CaRHSA0",
+        "dh@1.0.1-1": "04t0J0000006bL3QAI"
     }
 }

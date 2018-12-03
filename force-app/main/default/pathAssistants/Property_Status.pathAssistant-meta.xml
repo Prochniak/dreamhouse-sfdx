@@ -17,7 +17,7 @@
     <pathAssistantSteps>
         <fieldNames>Date_Contracted__c</fieldNames>
         <fieldNames>Price__c</fieldNames>
-        <picklistValueName>Contracted</picklistValueName>
+        <picklistValueName>Contracted2</picklistValueName>
     </pathAssistantSteps>
     <pathAssistantSteps>
         <fieldNames>Date_Pre_Market__c</fieldNames>
