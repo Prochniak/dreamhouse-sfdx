@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "dh",
-            "versionName": "ver 0.2",
-            "versionNumber": "0.2.0.NEXT"
+            "versionName": "ver 1",
+            "versionNumber": "0.3.1.NEXT"
         }
     ],
     "namespace": "",
@@ -15,6 +15,9 @@
         "dh": "0Ho1v000000XZBtCAO",
         "dh@0.1.1-1": "04t1v000002KPC9AAO",
         "dh@0.1.2-1": "04t1v000002KPCEAA4",
-        "dh@0.2.0-1": "04t1v000002KPCJAA4"
+        "dh@0.2.0-1": "04t1v000002KPCJAA4",
+        "dh@0.2.1-1": "04t1v000002KPCdAAO",
+        "dh@0.3.0-1": "04t1v000002KPCnAAO",
+        "dh@0.3.1-1": "04t1v000002KPCsAAO"
     }
 }

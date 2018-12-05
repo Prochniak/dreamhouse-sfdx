@@ -3,3 +3,8 @@ Status                         Success
 Package Id                     0Ho0J000000CaRHSA0
 Package Version Id             05i0J000000GmaEQAS
 Subscriber Package Version Id  04t0J0000006bKyQAI
+
+v 0.2   https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1v000002KPCJAA4
+v 0.2.1 https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1v000002KPCdAAO
+v 0.3   https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1v000002KPCnAAO
+v 0.3.1 https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1v000002KPCsAAO

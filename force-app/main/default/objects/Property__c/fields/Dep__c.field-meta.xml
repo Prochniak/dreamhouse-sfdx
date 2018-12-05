@@ -41,7 +41,7 @@
             </value>
         </valueSetDefinition>
         <valueSettings>
-            <controllingFieldValue>Contracted2</controllingFieldValue>
+            <controllingFieldValue>Contracted</controllingFieldValue>
             <valueName>1</valueName>
         </valueSettings>
         <valueSettings>
